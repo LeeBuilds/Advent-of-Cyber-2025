@@ -18,4 +18,4 @@ Files with the .sh extension contain CLI commands and are called shell scripts. 
 *type filename.txt* Display the contents of a text file
 *type file1.txt file2.txt > combined.txt* combine files
 *type file1.txt file2.txt* to view multiple files
-
+**
